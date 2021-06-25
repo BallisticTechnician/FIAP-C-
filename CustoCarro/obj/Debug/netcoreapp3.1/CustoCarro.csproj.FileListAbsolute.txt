@@ -1,0 +1,13 @@
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\CustoCarro\bin\Debug\netcoreapp3.1\CustoCarro.exe
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\CustoCarro\bin\Debug\netcoreapp3.1\CustoCarro.deps.json
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\CustoCarro\bin\Debug\netcoreapp3.1\CustoCarro.runtimeconfig.json
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\CustoCarro\bin\Debug\netcoreapp3.1\CustoCarro.runtimeconfig.dev.json
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\CustoCarro\bin\Debug\netcoreapp3.1\CustoCarro.dll
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\CustoCarro\bin\Debug\netcoreapp3.1\CustoCarro.pdb
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\CustoCarro\obj\Debug\netcoreapp3.1\CustoCarro.csproj.AssemblyReference.cache
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\CustoCarro\obj\Debug\netcoreapp3.1\CustoCarro.AssemblyInfoInputs.cache
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\CustoCarro\obj\Debug\netcoreapp3.1\CustoCarro.AssemblyInfo.cs
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\CustoCarro\obj\Debug\netcoreapp3.1\CustoCarro.csproj.CoreCompileInputs.cache
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\CustoCarro\obj\Debug\netcoreapp3.1\CustoCarro.dll
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\CustoCarro\obj\Debug\netcoreapp3.1\CustoCarro.pdb
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\CustoCarro\obj\Debug\netcoreapp3.1\CustoCarro.genruntimeconfig.cache

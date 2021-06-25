@@ -1,0 +1,13 @@
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\ExercicioAula01If\bin\Debug\netcoreapp3.1\ExercicioAula01If.exe
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\ExercicioAula01If\bin\Debug\netcoreapp3.1\ExercicioAula01If.deps.json
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\ExercicioAula01If\bin\Debug\netcoreapp3.1\ExercicioAula01If.runtimeconfig.json
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\ExercicioAula01If\bin\Debug\netcoreapp3.1\ExercicioAula01If.runtimeconfig.dev.json
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\ExercicioAula01If\bin\Debug\netcoreapp3.1\ExercicioAula01If.dll
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\ExercicioAula01If\bin\Debug\netcoreapp3.1\ExercicioAula01If.pdb
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\ExercicioAula01If\obj\Debug\netcoreapp3.1\ExercicioAula01If.AssemblyInfoInputs.cache
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\ExercicioAula01If\obj\Debug\netcoreapp3.1\ExercicioAula01If.AssemblyInfo.cs
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\ExercicioAula01If\obj\Debug\netcoreapp3.1\ExercicioAula01If.csproj.CoreCompileInputs.cache
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\ExercicioAula01If\obj\Debug\netcoreapp3.1\ExercicioAula01If.dll
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\ExercicioAula01If\obj\Debug\netcoreapp3.1\ExercicioAula01If.pdb
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\ExercicioAula01If\obj\Debug\netcoreapp3.1\ExercicioAula01If.genruntimeconfig.cache
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Fiap.Aula01\ExercicioAula01If\obj\Debug\netcoreapp3.1\ExercicioAula01If.csproj.AssemblyReference.cache
